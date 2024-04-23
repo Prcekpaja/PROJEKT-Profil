@@ -17,3 +17,12 @@ html { box-sizing: border-box; }
 body {
 	background-color: #bdc3c7;
 }
+
+.profil {
+	width: 20%;
+	border: solid lightblue;
+}
+
+.foto {
+	width: auto;
+}
